@@ -127,3 +127,15 @@ Ce laboratoire permet de comprendre :
 ## Auteur
 
 Projet réalisé dans le cadre du **LAB 22 — JNI Android**.
+
+
+
+
+
+<img width="333" height="507" alt="Screenshot 2026-03-25 142834" src="https://github.com/user-attachments/assets/4c18566f-4b91-4b3e-94da-645c46e22e07" />
+
+
+
+<img width="1876" height="616" alt="Screenshot 2026-03-25 143259" src="https://github.com/user-attachments/assets/531d7af4-77ad-4df3-a9a7-b863d242dd99" />
+
+
